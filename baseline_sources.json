@@ -1,0 +1,17 @@
+{
+  "origin": "Previously validated Stage10A source archive; unchanged four operator source sets",
+  "files": {
+    "op_host/ht_stft_frame_window.cpp": "3137473be4990257cb493b87b23c0b0bedd09b1faf8cd067736fad237250fe78",
+    "op_host/ht_stft_frame_window_tiling.h": "838dce36e5d156aeb1ca4ea15d507c0d0151bc4b7e17f7cdf6c98e1fd0563aa6",
+    "op_kernel/ht_stft_frame_window.cpp": "dedac5735656cd4890c6f33013dc669ba31dd9a18c14d37ac5cdd6863805969a",
+    "op_host/ht_stft_split.cpp": "ddd12d9bfb62ee8711a4038dbef2861b3985bb9a08ea954afcf9aa07bfa48d10",
+    "op_host/ht_stft_split_tiling.h": "1c805079e0009c70f411cdb8b1a504a35c4f9bfe8ed1b7cea5508d7a448338df",
+    "op_kernel/ht_stft_split.cpp": "708013384b51ec6a0daf1818ba0b0fd7e000828abf9370a9df120831dc3c06ac",
+    "op_host/ht_dft_matmul.cpp": "992aa37a64a96b57a4f8f30822115e5b16b4b3471ecce0c6f402e58f02230634",
+    "op_host/ht_dft_matmul_tiling.h": "bf1df9210555d238c63a0f59b08c565693153b6a39631fb561ea637721e59bbf",
+    "op_kernel/ht_dft_matmul.cpp": "5256d9236390bdaed7d5ee62c6b9de78c24f4d400b33f9612e1484739d07424f",
+    "op_host/ht_stft_merge_pack.cpp": "e6516784fa6eb1f76c133696c0a344875f787a84ad3c43e24f9e53bc5c3f85af",
+    "op_host/ht_stft_merge_pack_tiling.h": "cb6bca0b4eb7a41742b711edc5d8b4a7333ae5879a4097671ac235fc43fea7d2",
+    "op_kernel/ht_stft_merge_pack.cpp": "dea06f828437aea0cd5f0c59dfd20054b4a499e4733fcdd8165672817ff0a07b"
+  }
+}
